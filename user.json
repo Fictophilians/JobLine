@@ -1,0 +1,22 @@
+ [
+  {
+    "nama": "adi",
+    "password": 123456,
+    "email": "adiganteng@gmail.com"
+  },
+  {
+    "nama": "habibi",
+    "password": 123456,
+    "email": "habibinuga@gmail.com"
+  },
+  {
+    "nama": "aji",
+    "password": 123456,
+    "email": "ajikoji@gmail.com"
+  },
+  {
+    "nama": "wildan",
+    "password": 123456,
+    "email": "wildanang@gmail.com"
+  }
+]
